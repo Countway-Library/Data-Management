@@ -1,4 +1,4 @@
-## Research Data Management - in the life cycle
+## Research Data Management - in the data lifecycle
 August 10 2017 | Haravrd School of Public Health FXB G13
 
 Website: https://datamanagement.hms.harvard.edu
