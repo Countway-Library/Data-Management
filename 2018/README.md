@@ -11,7 +11,7 @@ Monday January 29 | 12-1pm |  HMS TMEC 104 Classroom
 
 Wednesday February 7 | 12-1pm | HSDM Research and Education Building (REB) Auditorium
 
-Friday February 16 | 1-2pm | HSPH Kresge Building Room 200
+Friday February 16 | 1-2pm | HSPH Kresge Building Room 200 **canceled**
 
 Thursday March 15 | 12-1pm | Countway Library Minot Room 506
 
