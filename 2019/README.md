@@ -1,4 +1,4 @@
-## Research Data Management Seminar Series Winter and Summer 2018
+## Research Data Management Seminar Series Winter 2018
 
 Slides: https://datamanagement.hms.harvard.edu/class-materials
 
@@ -26,7 +26,7 @@ Slides: https://datamanagement.hms.harvard.edu/class-materials
 
 - [ ] Intro to HPC | 2019-07-11 | 1:30-3:00 | Countway Library, Minot Room
 
-- [ ] Creating Meaningful Data: Metadata Essentials | 12:30-1:30 | 1:30-3:00 | CCountway Library Classroom 403
+- [ ] Creating Meaningful Data: Metadata Essentials | 12:30-1:30 | 1:30-3:00 | Countway Library Classroom 403
 
 - [ ] Version Control | 2019-08-21| 1:30-3:00 | HMS TMEC Mini Amphitheater 227
 
