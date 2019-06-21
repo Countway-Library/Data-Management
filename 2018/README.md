@@ -1,4 +1,4 @@
-## Research Data Management - in the data lifecycle
+## Research Data Management - in the data lifecycle 2018 Dates
 
 Website: https://datamanagement.hms.harvard.edu
 
@@ -6,7 +6,6 @@ Slides: https://drive.google.com/open?id=1lasgstk1H-NCZntOVzXWVux0OIf6HpHXybfjaX
 
 Handout: https://github.com/Countway-Library/RDM-Training/blob/master/201708_RDM_Checklist.pdf
 
-## 2018 Dates:
 - [x] Monday January 29 | 12-1pm |  HMS TMEC 104 Classroom
 
 - [x] Wednesday February 7 | 12-1pm | HSDM Research and Education Building (REB) Auditorium
@@ -17,7 +16,9 @@ Handout: https://github.com/Countway-Library/RDM-Training/blob/master/201708_RDM
 
 - [x] Wednesday April 18 | 12:30-1:30 | HSPH Kresge Building Room 200
 
-## Research Data Management Seminar Series
+----
+
+## Research Data Management Seminar Series Summer and Fall 2018
 
 Slides: https://datamanagement.hms.harvard.edu/class-materials
 
