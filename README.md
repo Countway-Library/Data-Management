@@ -3,3 +3,4 @@ Material and resources resulting from RDM training events supported by Countway 
 
 ### [2017](https://github.com/Countway-Library/Data-Management/tree/master/2017)
 ### [2018](https://github.com/Countway-Library/Data-Management/tree/master/2018)
+### [2019](https://github.com/Countway-Library/Data-Management/tree/master/2019)
