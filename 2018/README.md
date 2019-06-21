@@ -13,6 +13,24 @@ Handout: https://github.com/Countway-Library/RDM-Training/blob/master/201708_RDM
 
 **[canceled]** Friday February 16 | 1-2pm | HSPH Kresge Building Room 200
 
-- [ ] Thursday March 15 | 12-1pm | Countway Library Minot Room 506
+- [x] Thursday March 15 | 12-1pm | Countway Library Minot Room 506
 
-- [ ] Wednesday April 18 | 1-2pm | HSPH Kresge Building Room 200
+- [x] Wednesday April 18 | 12:30-1:30 | HSPH Kresge Building Room 200
+
+## Research Data Management Seminar Series
+
+Slides: https://datamanagement.hms.harvard.edu/class-materials
+
+- [x] Data Skills: Planning for Research Success | 2018-06-25 | 12:30-1:30pm | Countway Library Ballard Room 505
+
+- [x] Getting Started with DMPs | 2018-07-23 | 12:30-1:30pm | HSPH Kresge Building Room G12
+
+- [x] Tips and Tools for Data Storage at Harvard | 2018-08-08 | 12:30-1:30pm | HSPH Kresge Building Room G12
+
+- [x] Increasing Openness and Collaboration | 2018-09-17 | 12:00-1:00pm | Countway Library, Ballard Room
+
+- [x] Data Skills: Planning for Research Success | 2018-10-04 | 1:00-2:00pm | HSPH Kresge Building Room 200
+
+- [x] Digital Tools for the Lab | 2018-11-16 | 1:00-2:00pm | HMS TMEC Mini Amphitheater 227
+
+- [x] Data Skills: Planning for Research Success | 2018-12-11 | 1:00-2:00pm | Cannon Room, Building C
