@@ -2,9 +2,7 @@
 
 Website: https://datamanagement.hms.harvard.edu
 
-Slides: https://drive.google.com/open?id=1lasgstk1H-NCZntOVzXWVux0OIf6HpHXybfjaX8drRc
-
-Handout: https://github.com/Countway-Library/RDM-Training/blob/master/201708_RDM_Checklist.pdf
+[Slides](20180418-RDM-Lifecycle-Slides.pdf) | [Handout](201708_RDM_Checklist.pdf)
 
 - [x] Monday January 29 | 12-1pm |  HMS TMEC 104 Classroom
 
@@ -20,18 +18,16 @@ Handout: https://github.com/Countway-Library/RDM-Training/blob/master/201708_RDM
 
 ## Research Data Management Seminar Series Summer and Fall 2018
 
-Slides: https://datamanagement.hms.harvard.edu/class-materials
+- [x] [Data Skills: Planning for Research Success](20180625-RDM-Lifecycle-Slides.pdf) | 2018-06-25 | 12:30-1:30pm | Countway Library Ballard Room 505
 
-- [x] Data Skills: Planning for Research Success | 2018-06-25 | 12:30-1:30pm | Countway Library Ballard Room 505
+- [x] [Getting Started with DMPs](20180723-RDM-DMP-Slides.pdf) | 2018-07-23 | 12:30-1:30pm | HSPH Kresge Building Room G12
 
-- [x] Getting Started with DMPs | 2018-07-23 | 12:30-1:30pm | HSPH Kresge Building Room G12
+- [x] [Tips and Tools for Data Storage at Harvard](20180808-RDM-Storage-Slides.pdf) | 2018-08-08 | 12:30-1:30pm | HSPH Kresge Building Room G12
 
-- [x] Tips and Tools for Data Storage at Harvard | 2018-08-08 | 12:30-1:30pm | HSPH Kresge Building Room G12
+- [x] [Increasing Openness and Collaboration](20180917-RDM-Open_Collab-Slides.pdf) | 2018-09-17 | 12:00-1:00pm | Countway Library, Ballard Room
 
-- [x] Increasing Openness and Collaboration | 2018-09-17 | 12:00-1:00pm | Countway Library, Ballard Room
+- [x] [Data Skills: Planning for Research Success](20181004-RDM-Lifecycle-Slides.pdf) | 2018-10-04 | 1:00-2:00pm | HSPH Kresge Building Room 200
 
-- [x] Data Skills: Planning for Research Success | 2018-10-04 | 1:00-2:00pm | HSPH Kresge Building Room 200
+- [x] [Digital Tools for the Lab](20181116-RDM-Digital-Tool-Slides.pdf) | 2018-11-16 | 1:00-2:00pm | HMS TMEC Mini Amphitheater 227
 
-- [x] Digital Tools for the Lab | 2018-11-16 | 1:00-2:00pm | HMS TMEC Mini Amphitheater 227
-
-- [x] Data Skills: Planning for Research Success | 2018-12-11 | 1:00-2:00pm | Cannon Room, Building C
+- [x] [Data Skills: Planning for Research Success](20181211-RDM-Lifecycle-Slides.pdf) | 2018-12-11 | 1:00-2:00pm | Cannon Room, Building C
