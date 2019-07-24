@@ -2,7 +2,7 @@
 
 Website: https://datamanagement.hms.harvard.edu
 
-[Slides](20180418-RDM-Lifecycle-Slides.pdf) | [Handout](201708_RDM_Checklist.pdf)
+[Slides](20180418-RDM-Lifecycle-Slides.pdf) | [Handout](/201708_RDM_Checklist.pdf)
 
 - [x] Monday January 29 | 12-1pm |  HMS TMEC 104 Classroom
 
