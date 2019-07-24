@@ -1,4 +1,4 @@
-## Research Data Management Seminar Series Winter 2018
+## Research Data Management Seminar Series Winter 2019
 
 - [x] [Creating Meaningful Data: Metadata Essentials](20190114-RDM-Metadata-Slides.pdf) | 2019-01-14 | 1:00-2:00pm | Countway Library Classroom 403
 
@@ -14,7 +14,7 @@
 
 ----
 
-## Research Data Management Seminar Series Summer 2018
+## Research Data Management Seminar Series Summer 2019
 
 - [x] [Data Skills: Planning for Research Success](20190603-RDM-Lifecycle-Slides.pdf) | 2019-06-03 | 12:30-1:30 | Countway Library Classroom 403
 
@@ -28,4 +28,4 @@
 
 ----
 
-## Research Data Management Seminar Series Fall 2018
+## Research Data Management Seminar Series Fall 2019
